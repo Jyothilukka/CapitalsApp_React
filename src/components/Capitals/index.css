@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.main-con {
+  background-color: #93c5fd;
+  height: 100vh;
+  font-family: roboto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.c-card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  border-radius: 20px;
+}
+.s {
+  display: flex;
+}
+.select {
+  margin-right: 10px;
+}
+.country {
+  font-weight: 700;
+  display: flex;
+  justify-content: flex-start;
+}
